@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sys.tain</string>
+    <string name="title_activity_heat_maps">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
